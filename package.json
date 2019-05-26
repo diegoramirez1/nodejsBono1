@@ -1,0 +1,15 @@
+{
+  "name": "bono1",
+  "version": "1.0.0",
+  "description": "Mismo ejercicio que nodejsassingment1 pero enviando la salida a el browser por el puerto 3000",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Ramirez diegoramirez1@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  }
+}
